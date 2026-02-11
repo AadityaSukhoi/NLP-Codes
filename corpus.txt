@@ -1,0 +1,6 @@
+
+    Natural Language Processing is interesting.
+    Subword tokenization helps handle unknown words.
+    Unhappiness can be split into meaningful parts.
+    Transformers use subword tokenizers.
+    
